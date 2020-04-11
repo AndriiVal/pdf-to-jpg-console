@@ -10,12 +10,12 @@ Requires
  
  Python Modules
 --------------
- * wand (pip install wand)
- * progress (pip install progress)
+ * wand (pip3 install wand)
+ * progress (pip3 install progress)
 
 Usage
 --------------
- - To run this tool in console enter "python path/to/the/pdf_to_jpg.py"
+ - To run this tool in console enter "python3 path/to/the/pdf_to_jpg.py"
  - Then enter "path/to/the/your_file.pdf"
  - Then ente image resolution (numeric)
  - Next, wait for the completion
