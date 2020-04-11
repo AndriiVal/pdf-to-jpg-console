@@ -17,5 +17,5 @@ Usage
 --------------
  - To run this tool in console enter "python3 path/to/the/pdf_to_jpg.py"
  - Then enter "path/to/the/your_file.pdf"
- - Then ente image resolution (numeric)
+ - Then enter image resolution (numeric)
  - Next, wait for the completion
