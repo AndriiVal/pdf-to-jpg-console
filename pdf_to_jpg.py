@@ -3,6 +3,7 @@
 
 # Author: Andrii Valchuk
 
+import time
 from wand.image import Image as wimg
 from progress.bar import IncrementalBar
 
@@ -18,6 +19,7 @@ try:
     bar = IncrementalBar('Convert', max = len(imgsequence))
     i = 1
     for img in imgsequence:
+        time.sleep(.1)
         bar.next()
         page = wimg(image=img)
         page.save(filename=str(i)+".jpg")
