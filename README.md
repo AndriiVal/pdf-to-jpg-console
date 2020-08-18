@@ -19,3 +19,7 @@ Usage
  - Then enter "path/to/the/your_file.pdf"
  - Then enter image resolution (numeric)
  - Next, wait for the completion
+
+License
+-----------------
+GNU GPL 3
